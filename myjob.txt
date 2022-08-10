@@ -1,15 +1,22 @@
 Cloud System engineer
 วิศวกรระบบคลาวด์
 Siam Commercial Bank Public Co., Ltd.
+ธนาคารไทยพาณิชย์ จำกัด (มหาชน)
 
 Job Description:
 หน้าที่รับผิดชอบ
     Implementing, managing and monitoring RHEL,Solaris,AIX, VMWare, AWS and Azure cloud.
+    การใช้งาน จัดการ และตรวจสอบ RHEL, Solaris, AIX, VMWare, AWS และ Azure cloud
     Manage and maintain high standards of system availability, security hardening, change management and performance tuning.
+    จัดการและรักษามาตรฐานระดับสูงของความพร้อมใช้งานของระบบ การเพิ่มความปลอดภัย การจัดการการเปลี่ยนแปลง และการปรับแต่งประสิทธิภาพ
     Support day to day operations, change management, incident and problem solving.
+    สนับสนุนการดำเนินงานในแต่ละวัน การจัดการการเปลี่ยนแปลง เหตุการณ์ และการแก้ปัญหา
 
 Qualifications:
 คุณสมบัติที่ต้องการ
     Bachelor or Master degree of computer science, computer engineer or related fields.
+    วุฒิปริญญาตรีหรือโท สาขาวิทยาการคอมพิวเตอร์ วิศวกรคอมพิวเตอร์ หรือสาขาที่เกี่ยวข้อง
     Knowledge of Shellscript, Ansible, Terraform, Python.
+    ความรู้เกี่ยวกับ Shellscript, Ansible, Terraform, Python
     Good communication in Thai and English.
+    สื่อสารภาษาไทยและอังกฤษได้ดี
