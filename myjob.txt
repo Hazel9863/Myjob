@@ -1,0 +1,21 @@
+Cloud System engineer
+ตำแหน่ง วิศวกรระบบคลาวด์
+Siam Commercial Bank Public Co., Ltd.
+
+Job Description:
+
+    Implementing, managing and monitoring RHEL,Solaris,AIX, VMWare, AWS and Azure cloud.
+    Manage and maintain high standards of system availability, security hardening, change management and performance tuning.
+    Support day to day operations, change management, incident and problem solving.
+
+Qualifications:
+
+    Bachelor or Master degree of computer science, computer engineer or related fields.
+    2-12 years of experiences in Unix system administrator.
+    Experience in x86 server, Pseries,Vmware.
+    Experience in Windows, Redhat, AIX, Kubernetes, JBOSS, Tomcat, Websphere.
+    Experience in Cloud technology on AWS and Azure.
+    Knowledge of Shellscript, Ansible, Terraform, Python.
+    otection).
+    Good team player. Able to standby and remote support 24x7 on related issues or incidents.
+    Good communication in Thai and English.
